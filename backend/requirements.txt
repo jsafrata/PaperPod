@@ -1,0 +1,16 @@
+fastapi==0.115.6
+uvicorn[standard]==0.34.0
+sqlmodel==0.0.22
+psycopg2-binary==2.9.10
+pgvector==0.3.6
+google-genai==1.12.1
+PyMuPDF==1.25.3
+pdfplumber==0.11.4
+Pillow==11.1.0
+numpy==2.2.3
+python-multipart==0.0.20
+websockets==14.2
+supabase==2.13.0
+python-dotenv==1.0.1
+pydantic-settings==2.7.1
+httpx==0.28.1
